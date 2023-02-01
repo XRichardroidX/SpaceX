@@ -30,7 +30,7 @@ After you're finished please remove all the comments and instructions!
   <img src="i.gif" alt="logo" width="540"  height="auto" />
   <br/>
 
-  <h3><b>Microverse JAVASCRIPT Capstone Project</b></h3>
+  <h3><b>Microverse React/ReaduX group Project</b></h3>
 
 </div>
 
@@ -67,7 +67,6 @@ After you're finished please remove all the comments and instructions!
 **[SpaceX Microverse Project ]** 
 
 ## 🛠 Built With <a name="built-with"></a>
-ES6 Features
 React
 ReduX
 ### Tech Stack <a name="tech-stack"></a>
@@ -164,6 +163,12 @@ Example command:
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/progress-ezeamaka-27b114247/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!--Future Features -->
+
+### Future Features <a name="key-features"></a>
+
+- **[Display data from the NASA database]**
 
 <!-- CONTRIBUTING -->
 
