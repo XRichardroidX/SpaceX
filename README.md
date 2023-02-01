@@ -67,7 +67,6 @@ After you're finished please remove all the comments and instructions!
 **[SpaceX Microverse Project ]** 
 
 ## 🛠 Built With <a name="built-with"></a>
-ES6 Features
 React
 ReduX
 ### Tech Stack <a name="tech-stack"></a>
