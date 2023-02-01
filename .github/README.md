@@ -89,12 +89,6 @@ ReduX
 
 - [Live Demo Link](https://xrichardroidx.github.io/SpaceX/build/) -->
 
-<!--Future Features -->
-
-### Future Features <a name="key-features"></a>
-
-- **[Display data from the NASA database]**
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
@@ -169,6 +163,12 @@ Example command:
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/progress-ezeamaka-27b114247/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!--Future Features -->
+
+### Future Features <a name="key-features"></a>
+
+- **[Display data from the NASA database]**
 
 <!-- CONTRIBUTING -->
 
