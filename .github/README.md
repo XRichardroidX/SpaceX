@@ -89,6 +89,12 @@ ReduX
 
 - [Live Demo Link](https://xrichardroidx.github.io/SpaceX/build/) -->
 
+<!--Future Features -->
+
+### Future Features <a name="key-features"></a>
+
+- **[Displays data from the NASA database]**
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
