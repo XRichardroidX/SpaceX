@@ -30,7 +30,7 @@ After you're finished please remove all the comments and instructions!
   <img src="i.gif" alt="logo" width="540"  height="auto" />
   <br/>
 
-  <h3><b>Microverse JAVASCRIPT Capstone Project</b></h3>
+  <h3><b>Microverse React/ReaduX group Project</b></h3>
 
 </div>
 
