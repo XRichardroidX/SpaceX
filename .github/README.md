@@ -93,7 +93,7 @@ ReduX
 
 ### Future Features <a name="key-features"></a>
 
-- **[Displays data from the NASA database]**
+- **[Display data from the NASA database]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
